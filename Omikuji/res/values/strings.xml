@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">おみくじ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_omikuji">OmikujiActivity</string>
+    <string name="bt_action">うらなう</string>
+    <string name="contents1">良縁が持ち込まれるでしょう。</string>
+    <string name="contents2">金運は非常によく、思わぬ収入がありそう。</string>
+    <string name="contents3">気力充実するでしょう。</string>
+    <string name="contents4">金運向上の兆しがありますがムダ遣いは控えましょう。</string>
+    <string name="contents5">恋愛は心がけ次第でしょう。</string>
+    <string name="contents6">健康は可もなく不可もありません。</string>
+    <string name="contents7">金運は、ボランティア活動が上昇のきっかけになるはず。</string>
+    <string name="contents8">恋愛は辛抱が大事です。</string>
+    <string name="contents9">寝不足に注意しましょう。</string>
+
+</resources>
